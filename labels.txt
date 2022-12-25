@@ -1,0 +1,3 @@
+0 vol_up
+1 vol_down
+2 play
